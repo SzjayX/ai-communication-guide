@@ -12,7 +12,7 @@
 
 > **一句话概括**：这门课教你如何跟 AI "说人话"，让 AI 听懂你的意思、给出你想要的结果。
 
-> 🔗 **GitHub**: [github.com/zjie06110/ai-communication-guide](https://github.com/zjie06110/ai-communication-guide)
+> 🔗 **GitHub**: [github.com/SzjayX/ai-communication-guide](https://github.com/SzjayX/ai-communication-guide)
 
 ---
 
@@ -350,7 +350,7 @@ AI沟通与指令设计/
 
 ### 克隆到本地
 ```bash
-git clone https://github.com/zjie06110/ai-communication-guide.git
+git clone https://github.com/SzjayX/ai-communication-guide.git
 cd ai-communication-guide
 # 用你喜欢的 Markdown 编辑器打开（VS Code、Typora、Obsidian 等）
 ```
