@@ -31,8 +31,6 @@ structure:
     - 13_实战项目.md
     - 14_团队协作.md
     - 15_评估与优化.md
-  config:
-    - .claude/settings.local.json
 
 lessons:
   "01_AI沟通的本质":         { status: published, completed_at: 2026-06-04 }
