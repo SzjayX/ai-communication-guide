@@ -1,0 +1,7 @@
+# 所有 Markdown 文件使用 LF 换行符（GitHub 推荐）
+*.md text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+
+# LICENSE 使用 LF
+LICENSE text eol=lf

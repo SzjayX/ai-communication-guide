@@ -1,0 +1,52 @@
+topic: AI沟通与指令设计
+created_at: 2026-06-03
+updated_at: 2026-06-04
+progress:
+  total_lessons: 15
+  published_lessons: 15
+  current_lesson: 全部 15 课已完成 🎉
+  status: completed
+
+structure:
+  root:
+    - README.md          # 课程门户与索引
+    - state.yaml          # 本文件
+  docs:                   # 参考文档
+    - 课程总览.md          # 15 课详细介绍
+    - 知识地图.md          # 可视化学习路径
+    - 学习进度追踪表.md     # 个人学习记录
+  lessons:                # 完整课程文档 (15/15) ✅
+    - 01_AI沟通的本质.md
+    - 02_大语言模型的能力边界.md
+    - 03_好指令的评估标准.md
+    - 04_明确目标与交付物.md
+    - 05_描述背景与受众.md
+    - 06_指令结构万能公式.md
+    - 07_示例驱动.md
+    - 08_迭代式沟通.md
+    - 09_可复用提示模板.md
+    - 10_系统化思考.md
+    - 11_常见错误与防坑.md
+    - 12_高级技巧.md
+    - 13_实战项目.md
+    - 14_团队协作.md
+    - 15_评估与优化.md
+  config:
+    - .claude/settings.local.json
+
+lessons:
+  "01_AI沟通的本质":         { status: published, completed_at: 2026-06-04 }
+  "02_大语言模型的能力边界":  { status: published, completed_at: 2026-06-04 }
+  "03_好指令的评估标准":      { status: published, completed_at: 2026-06-04 }
+  "04_明确目标与交付物":      { status: published, completed_at: 2026-06-04 }
+  "05_描述背景与受众":        { status: published, completed_at: 2026-06-04 }
+  "06_指令结构万能公式":      { status: published, completed_at: 2026-06-04 }
+  "07_示例驱动":              { status: published, completed_at: 2026-06-04 }
+  "08_迭代式沟通":            { status: published, completed_at: 2026-06-04 }
+  "09_建立可复用的提示模板":  { status: published, completed_at: 2026-06-04 }
+  "10_AI思维导图与系统化思考": { status: published, completed_at: 2026-06-04 }
+  "11_常见错误与防坑指南":    { status: published, completed_at: 2026-06-04 }
+  "12_高级技巧":              { status: published, completed_at: 2026-06-04 }
+  "13_实战项目":              { status: published, completed_at: 2026-06-04 }
+  "14_团队协作":              { status: published, completed_at: 2026-06-04 }
+  "15_评估与优化":            { status: published, completed_at: 2026-06-04 }
