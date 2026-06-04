@@ -2,17 +2,38 @@
 
 <div align="center">
 
-[![课程状态](https://img.shields.io/badge/课程状态-15%2F15%20完成-brightgreen)](./README.md)
-[![总字数](https://img.shields.io/badge/总字数-~76%2C600-blue)](./README.md)
-[![总学时](https://img.shields.io/badge/总学时-~13.3%20小时-orange)](./README.md)
-[![难度](https://img.shields.io/badge/难度-入门→专家-purple)](./README.md)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](./LICENSE)
+[![Lessons](https://img.shields.io/badge/课程-15%2F15-brightgreen?style=for-the-badge&logo=bookstack&logoColor=white)](./lessons/)
+[![Words](https://img.shields.io/badge/字数-~7.6万-blue?style=for-the-badge&logo=markdown&logoColor=white)](./lessons/)
+[![Hours](https://img.shields.io/badge/学时-~13h-orange?style=for-the-badge&logo=clockify&logoColor=white)](./lessons/)
+[![Level](https://img.shields.io/badge/难度-入门→专家-purple?style=for-the-badge&logo=levelup&logoColor=white)](./README.md)
+[![License](https://img.shields.io/badge/许可-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](./LICENSE)
+[![PRs](https://img.shields.io/badge/PRs-欢迎!-pink?style=for-the-badge&logo=github&logoColor=white)](./README.md)
 
 </div>
 
-> **一句话概括**：这门课教你如何跟 AI "说人话"，让 AI 听懂你的意思、给出你想要的结果。
+<br>
 
-> 🔗 **GitHub**: [github.com/SzjayX/ai-communication-guide](https://github.com/SzjayX/ai-communication-guide)
+> 🎯 **一句话**：15 节系统课程，从零教你如何跟 AI "说人话"——写出清晰指令，获得精准结果。**不是 AI 不够聪明，是你没跟它说清楚。**
+
+<br>
+
+## 📖 关于本课程
+
+本课程是一套**系统化、渐进式**的 AI 沟通与指令设计（Prompt Engineering）学习指南。它不预设任何 AI 使用经验，从"AI 到底是什么"讲到"构建自己的 AI Agent"，再到"把 AI 能力推广到整个团队"。
+
+**适合谁？**
+- 🟢 **AI 新手**：从没系统用过 AI，想快速入门
+- 🟡 **有经验的 AI 用户**：能用 AI 但产出不稳定，想系统化提升
+- 🔴 **团队 Leader**：想推广 AI 到整个团队，建立统一的使用规范
+
+**为什么值得学？**
+
+| 对比 | 碎片化学习（网上看文章） | 本课程 |
+|------|------------------------|--------|
+| 体系 | 零散、不成体系 | 15 节课，4 个阶段，循序渐进 |
+| 深度 | 停留在"加一句 Let's think step by step" | 从认知底层到 Agent 构建，全部覆盖 |
+| 实践 | 看完就忘 | 每课 3-5 个练习，即学即用 |
+| 复用 | 凭记忆写指令 | 建立终身指令库，持续增值 |
 
 ---
 
