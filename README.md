@@ -294,7 +294,7 @@ AI沟通与指令设计/
 | 📖 课程总览 | [`docs/课程总览.md`](./docs/课程总览.md) | 每节课的详细介绍和学习目标 |
 | 🗺️ 知识地图 | [`docs/知识地图.md`](./docs/知识地图.md) | 学习路线图 + 可视化知识结构 |
 | 📊 进度追踪表 | [`docs/学习进度追踪表.md`](./docs/学习进度追踪表.md) | 记录你的学习进度和心得（可自行填写） |
-| ⚙️ 课程状态 | `state.yaml` | 机器可读的课程进度（Learn-Anything 兼容） |
+| ⚙️ 课程状态 | `state.yaml` | 机器可读的课程进度 |
 | 📄 开源许可 | `LICENSE` | MIT License |
 
 ---
@@ -375,9 +375,6 @@ git clone https://github.com/SzjayX/ai-communication-guide.git
 cd ai-communication-guide
 # 用你喜欢的 Markdown 编辑器打开（VS Code、Typora、Obsidian 等）
 ```
-
-### 配合 Learn-Anything 使用
-本课程是 [Learn-Anything](https://github.com) 学习系统的一部分。如果你使用 Learn-Anything，可以直接导入本仓库的 `state.yaml` 来追踪学习进度。
 
 ---
 
